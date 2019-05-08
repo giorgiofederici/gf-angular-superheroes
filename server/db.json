@@ -1,0 +1,39 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "fullname": "Super Giorgio1",
+      "available": true,
+      "lastAppearanceDate": 1557353285487,
+      "agency": "red"
+    },
+    {
+      "id": 2,
+      "fullname": "Super Nathalie",
+      "available": false,
+      "lastAppearanceDate": null,
+      "agency": ""
+    },
+    {
+      "id": 3,
+      "fullname": "Super Francesco",
+      "available": true,
+      "lastAppearanceDate": 1488412800000,
+      "agency": ""
+    },
+    {
+      "id": 4,
+      "fullname": "Super Giada",
+      "available": true,
+      "lastAppearanceDate": 1488412800000,
+      "agency": ""
+    },
+    {
+      "id": 5,
+      "fullname": "Super Valerio",
+      "available": false,
+      "lastAppearanceDate": null,
+      "agency": ""
+    }
+  ]
+}
